@@ -1,2 +1,2 @@
-# Hi there, I'm Brahian
-<img src="https://giphy.com/gifs/pudgypenguins-glitch-matrix-cyber-8dPbkqUb2p5XTvIXLx"/>
+# <img src="https://media.giphy.com/media/8dPbkqUb2p5XTvIXLx/giphy.gif" width="200px"/> Bienvenido a mi Git Hub!
+
